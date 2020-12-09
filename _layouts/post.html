@@ -6,8 +6,25 @@ layout: default
   {{ page.title }}
 </h1>
 
-{% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+
+{% if page.image.feature %}
+<div class="post-image-feature">
+  <img class="feature-image" src=
+  {% if page.image.feature contains "http" %}
+  "{{ page.image.feature }}"
+  {% else %}
+  "{{ site.github.url }}/assets/img/{{ page.image.feature }}"
+  {% endif %}
+  {% if page.image.alt %}
+  alt="{{ page.image.alt }}"
+  {% else %}
+  alt="{{ page.title }} feature image">
+  {% endif %}
+
+  {% if page.image.credit %}
+  <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+</div><!-- /.image-wrap -->
 {% endif %}
 
 {{ content }}
