@@ -23,7 +23,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           Allen's Dream
 description:	       Personal log of a programmer turned cancer fighter
 author:              Allen Lee
-
+feed:
+  path: atom.xml
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
