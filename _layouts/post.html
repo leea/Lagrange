@@ -13,7 +13,7 @@ layout: default
   {% if page.image.feature contains "http" %}
   "{{ page.image.feature }}"
   {% else %}
-  "{{ site.github.url }}/assets/img/{{ page.image.feature }}"
+  "{{ site.url }}/assets/img/{{ page.image.feature }}"
   {% endif %}
   {% if page.image.alt %}
   alt="{{ page.image.alt }}"
