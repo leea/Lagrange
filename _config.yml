@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           Terminal
-description:	       Personal blog of programmer Allen Lee
+description:	       Personal blog of an engineer & cancer fighter
 author:              Allen Lee
 feed:
   path: atom.xml
