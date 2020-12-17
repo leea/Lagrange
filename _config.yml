@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           Terminal Engineering
-description:	       Personal log of a programmer turned cancer fighter
+title:		           Terminal
+description:	       Personal log of programmer Allen Lee
 author:              Allen Lee
 feed:
   path: atom.xml

@@ -18,10 +18,10 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  font-size: 18px;
+  font-family: "Varela", Helvetica, sans-serif;
+  font-size: 16px;
   color: #515151;
-  line-height: 1.75rem;
+  line-height: 1.5rem;
 }
 
 @media (max-width: 30em) {
@@ -35,7 +35,7 @@ body {
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 h1 a {
@@ -43,13 +43,14 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  color: #333333;
 }
 
 a {
   text-decoration: underline;
-  color: #333;
+  color: #333333;
 }
 
 a:hover {
@@ -101,7 +102,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Source Code Pro", monospace;
 }
 
 .masthead a:hover {
@@ -109,9 +110,10 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2rem;
+  font-size: 2.2rem;
   text-decoration: none;
   color: #505050;
+  font-family: "Source Code Pro", monospace;
 }
 
 .masthead-subtitle {
@@ -143,7 +145,7 @@ hr {
 }
 
 .posts {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   padding: 0px;
   list-style: none;
 }
@@ -153,7 +155,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size:0.8rem;
 }
 
@@ -182,7 +184,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
@@ -226,7 +228,12 @@ hr {
 .footer a:hover {
   color: #333;
 }
-
+.newsletter-container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
 /*
   Menu
 */
@@ -244,6 +251,7 @@ hr {
   color: #999;
   font-size: 1rem;
   padding-right: 10px;
+  font-family: "Montserrat", sans-serif;
 }
 
 .social-icons {
@@ -264,7 +272,10 @@ hr {
     margin-bottom: 5px;
   }
 }
-
+.feature-image{
+  display: block;
+  margin: auto;
+}
 /*
   Code
 */
@@ -347,11 +358,11 @@ table {
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid grey;
 }
 
 th, td {
-  padding: 15px;
+  padding: 5px;
   text-align: left;
 }
 

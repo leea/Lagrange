@@ -18,8 +18,9 @@ layout: default
   {% if page.image.alt %}
   alt="{{ page.image.alt }}"
   {% else %}
-  alt="{{ page.title }} feature image">
+  alt="{{ page.title }} feature image"
   {% endif %}
+       >
 
   {% if page.image.credit %}
   <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
@@ -52,6 +53,9 @@ layout: default
 {% comment %}
 {% include related-posts.html %}
 {% endcomment %}
+
+<!-- Feedburner -->
+{% include feedburner.html %}
 
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}

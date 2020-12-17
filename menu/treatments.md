@@ -4,13 +4,13 @@ title: My cancer treatment journey
 comments: true
 ---
 
-In this journey of getting treatment for cancer, I have learned so much from the
-experiences of others who graciously shared their experiences with me. On this
-page is the record of all of my medical treatments. I hope that someone reading
-this facing similar illness will find this useful.
+I have gained so much from learning the experiences of other patients, and case
+reports published in medical journals. Paying forward, this is a record of all
+of my medical treatments. I hope that someone reading this facing similar
+illness will find this useful.
 
-This represents only my experience. Cancer is a disease unique to each individual.
-Your own mileage may vary.
+*This represents only my experience. Cancer is a disease unique to each individual.
+Your own mileage may vary.*
 
 
 **November 2014**
@@ -52,7 +52,7 @@ treatment plan at MGH to resect nodules and create a cell line.
 
 **December 23, 2015**
 
-VATS wedge resection in right lung. Continue Tarceva.
+Video Assisted Thoracic Surgery (VATS) wedge resection in right lung. Continue Tarceva.
 
 
 **December 31, 2015**
@@ -63,9 +63,8 @@ mutation for getting the next EGFR TKI (osimertinib).
 **January 2016**
 
 Mass General tissue sequencing is negative for T790M mutation in disagreement
-with cfDNA results.
+with cfDNA results. PD-L1 staining reveals up to 60% PD-L1 positivity.
 
-    
 **February 2016**
 
 Switch from zoledronic acid to denosumab.
@@ -78,10 +77,9 @@ Start Opdivo (nivolumab). Continue Tarceva (erlotinib)
 
 **May 2016**
 
-Disease in lungs look much worse. Cough is much worse. Stop Opdivo, Tarceva.
+In first scan on Opdivo, disease in lungs look much worse. Cough is much worse. Stop Opdivo, Tarceva.
 Start Tagrisso (osimertinib), no break between doses.
 
-    
 **May 25, 2016**
 
 Guardant cfDNA shows all mutant DNA is undetectable
@@ -91,7 +89,6 @@ Guardant cfDNA shows all mutant DNA is undetectable
 
 Scans show resolution of many nodules. Continuing bone pain. I push for local
 therapy of residual disease based on RCT from Gomez et al.
-
 
 **October 2016**
 
@@ -161,7 +158,7 @@ Tagrisso
 **June 2018**
 
 Travel to NIH in Bethesda, MD for clinical trial options. Am offered Dr
-Rosenberg’s famous TIL trial. Undergo VATS to harvest tumor with TILs. TILs will
+Rosenberg’s famous TIL trial. Undergo second VATS to harvest tumor with TILs. TILs will
 take many months to grow out so I will need to go on other therapy in the
 meantime
 
