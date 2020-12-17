@@ -4,13 +4,13 @@ title: My cancer treatment journey
 comments: true
 ---
 
-I have gained so much from learning the experiences of other patients, and case
-reports published in medical journals. Paying forward, this is a record of all
-of my medical treatments. I hope that someone reading this facing similar
-illness will find this useful.
+This is the record of all of my medical treatments. Having learned a lot from
+the experiences of other patients, I am sharing this in the hopes that
+someone facing similar illness finds it useful.
 
-*This represents only my experience. Cancer is a disease unique to each individual.
-Your own mileage may vary.*
+*This represents only my experience, not medical advice. Cancer is a disease
+unique to each individual. Therapies that have worked for me may not work in
+other situations, and vice versa.*
 
 
 **November 2014**
@@ -43,7 +43,7 @@ Start Tarceva (erlotinib).
 **May 2015**
 
 Start zoledronic acid. First scans following treatment shows “dramatic response
-to treatment”
+to treatment”.
 
 **December 2015**
 
@@ -63,27 +63,25 @@ mutation for getting the next EGFR TKI (osimertinib).
 **January 2016**
 
 Mass General tissue sequencing is negative for T790M mutation in disagreement
-with cfDNA results. PD-L1 staining reveals up to 60% PD-L1 positivity.
+with cfDNA results. Immunohistochemistry staining reveals up to 60% PD-L1
+staining.
 
 **February 2016**
 
 Switch from zoledronic acid to denosumab.
-
     
 **March 2016**
 
-Start Opdivo (nivolumab). Continue Tarceva (erlotinib)
-
+Start Opdivo (nivolumab). Continue Tarceva (erlotinib).
 
 **May 2016**
 
-In first scan on Opdivo, disease in lungs look much worse. Cough is much worse. Stop Opdivo, Tarceva.
-Start Tagrisso (osimertinib), no break between doses.
+In first scan on Opdivo, disease in lungs look much worse. Cough is much worse.
+Stop Opdivo, Tarceva. Start Tagrisso (osimertinib), no break between doses.
 
 **May 25, 2016**
 
-Guardant cfDNA shows all mutant DNA is undetectable
-
+Guardant cfDNA shows all mutant DNA is undetectable.
 
 **July 2016**
 
@@ -92,29 +90,28 @@ therapy of residual disease based on RCT from Gomez et al.
 
 **October 2016**
 
-Stereotactic radiation of residual tumor in left lung. 36Gy in 6 fractions
-
+Stereotactic radiation of residual tumor in left lung. 36Gy in 6 fractions.
 
 **November 2016**
 
-Stereotactic radiation of T5 and L5
+Stereotactic radiation of T5 and L5.
 
 
 **December 2016**
 
-Added Avastin. Continue Tagrisso
+Added Avastin. Continue Tagrisso.
 
 
 **January 07, 2016**
 
-Propose to Amy and she accepts. Wedding date 05/06/2017
+Propose to Amy and she accepts. Wedding date 05/06/2017.
 
 
 **February 2017**
 
 Guardant cfDNA EGFR del19 spikes from 0.3% to 8.5%. Reveals a C797S resistance
 mutation. PET scan shows metabolic disease in pelvis and L3. Stop Avastin.
-Continue Tagrisso
+Continue Tagrisso.
 
 
 **May 6, 2017**
@@ -125,28 +122,27 @@ Wedding day :)
 **May 2017**
 
 Stereotactic radiation to L3 and pelvic tumor Guardant cfDNA EGFR del19 drops
-from 8.5% to 0.06%. C797S,T790M is undetectable
-
+from 8.5% to 0.06%. C797S,T790M is undetectable.
 
 **August 2017**
 
-Disease progression -- new nodules in the lungs.
+Disease progression -- many new small nodules in both lungs.
 
     
 **Sept 2017**
 
-Add Tarceva. Continue Tagrisso
+Add Tarceva. Continue Tagrisso.
 
 
 **January 2018**
 
 Tagrisso, Tarceva combination results in slow progression. Lung tissue biopsy
-reveals del19, T790M, C797S mutations
+reveals del19, T790M, C797S mutations.
 
 
 **February 2018**
 
-Clinical trial - necitumumab, Tagrisso (osimertinib). Terrible skin toxicity
+Clinical trial - necitumumab, Tagrisso (osimertinib). Terrible skin toxicity.
 
 
 **May 2018**
@@ -158,9 +154,9 @@ Tagrisso
 **June 2018**
 
 Travel to NIH in Bethesda, MD for clinical trial options. Am offered Dr
-Rosenberg’s famous TIL trial. Undergo second VATS to harvest tumor with TILs. TILs will
-take many months to grow out so I will need to go on other therapy in the
-meantime
+Rosenberg’s famous TIL trial. Undergo second VATS to harvest tumor with TILs,
+and leukapheresis to harvest while blood cells. TILs will take many months to
+grow out so I will need to go on other therapy in the meantime.
 
 
 **July 2018**
@@ -173,8 +169,9 @@ first infusion.
 
 Have a second infusion with cisplatin(dose reduced), Alimta, Avastin. Scan shows
 90% response. Stop the cisplatin at this point as I have achieved a great
-response already. Later platinum sensitivity might be useful due to RB1,TP53 and
-susceptibility to small cell transformation. Continue Alimta, Avastin, Tagrisso
+response already and the platinum drug toxicity. Later platinum sensitivity
+might be useful due to RB1,TP53 and susceptibility to small cell transformation.
+Continue Alimta, Avastin, Tagrisso.
 
 
 **October 2018**
@@ -186,17 +183,17 @@ the NIH TIL trial.
 **November 2018**
 
 Stop Avastin due to frequent nose bleeds. Disease progression, but still low
-disease burden. Continue Alimta, Tagrisso
+disease burden. Continue Alimta, Tagrisso.
 
 
 **December 2018**
 
-Hospitalized with pneumonia
+Hospitalized with pneumonia.
 
 
 **February 2019**
 
-Stop Alimta
+Stop Alimta.
 
 
 **March 2019**
@@ -210,7 +207,7 @@ by the trial.
 
 Severe skin reactions to trial drug. Worsening cough leads to earlier scan. Scan
 shows 20% disease progression. Stop trial due to toxicity and disease
-progression
+progression.
 
 
 **May 2019**
@@ -231,8 +228,8 @@ Another great response to chemotherapy. Approx 85% reduction in disease
 
 **August 2019**
 
-Stop carboplatin after 3 cycles, due to neuropathy. Docs say it’s early
-neuropathy Continue Taxol, Avastin, Tagrisso
+Stop carboplatin after 3 cycles, due to low grade neuropathy. Continue Taxol,
+Avastin, Tagrisso
 
 
 **September 2019**
@@ -255,20 +252,21 @@ Continue Taxol, Tagrisso.
 
 Follow up MRI reveals six brain metastasis, leptomeningeal disease. Start 160mg
 Tagrisso. Restart Avastin. Continue Taxol. I am a five year survivor. Global
-COVID-19 pandemic sweeps the world.
-
+COVID-19 pandemic sweeps the US. As I receive immunosuppressive
+chemotherapy, it's a coin flip if I could survive a COVID-19 infection. I enter
+lockdown at home.
     
 **April 2020**
 
 Stereotactic radiation to largest brain metastasis Continue Taxol, Avastin,
-Tagrisso
+Tagrisso.
 
 
 **August 2020**
 
 
 Stereotactic radiation to remaining five brain metastasis. Continue Taxol,
-Avastin, Tagrisso
+Avastin, Tagrisso.
 
 
 **December 2020**
@@ -276,4 +274,3 @@ Avastin, Tagrisso
 CEA has slowly risen to 74. Have now had 24 cycles of Taxol, Avastin, Tagrisso.
 Symptoms from disease, and cumulative toxicity from chemotherapy are getting
 significant.
-
