@@ -9,8 +9,13 @@
 {% endif %}
 {% if page.image.feature %}
   <meta content="{{ site.url }}/assets/img/{{ page.image.feature }}" property="og:image">
-{% else %}
-  <meta content="/assets/img/favicon.png" property="og:image">
+  <meta name="twitter:card" content="summary_large_image">
+{% endif %}
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
