@@ -11,7 +11,8 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            3
+paginate:            5
+paginate_path:       "/blog/page:num/"
 
 # Build settings
 markdown:            kramdown
@@ -20,8 +21,8 @@ permalink:           date
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           Terminal
-description:	       Personal blog of an engineer & cancer fighter
+title:		           Terminal Engineering
+description:	       A blog of a cancer fighting engineer
 author:              Allen Lee
 feed:
   path: atom.xml

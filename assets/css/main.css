@@ -18,7 +18,7 @@
 */
 
 body {
-  font-family: "Varela", Helvetica, sans-serif;
+  font-family: "Montserrat", Helvetica, sans-serif;
   font-size: 16px;
   color: #515151;
   line-height: 1.5rem;
@@ -35,7 +35,7 @@ body {
 }
 
 h1{
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 h1 a {
@@ -43,8 +43,9 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
-  font-weight: normal;
+  font-family: "Varela", Helvetica, sans-serif;
+  font-weight: 500;
+  line-height: 1;
   color: #333333;
 }
 
@@ -102,7 +103,6 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Source Code Pro", monospace;
 }
 
 .masthead a:hover {
@@ -110,14 +110,18 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2.2rem;
+  font-size: 2.5rem;
   text-decoration: none;
   color: #505050;
   font-family: "Source Code Pro", monospace;
+  font-weight: 500;
 }
 
 .masthead-subtitle {
+  font-weight: normal;
   color: #999;
+  display: block;
+  padding-top: 0.5rem;
 }
 
 /*
@@ -155,7 +159,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Varela', sans-serif;
   font-size:0.8rem;
 }
 
@@ -184,7 +188,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Varela', sans-serif;
   text-align: center;
 }
 
@@ -251,7 +255,8 @@ hr {
   color: #999;
   font-size: 1rem;
   padding-right: 10px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Varela", sans-serif;
+  font-weight: normal;
 }
 
 .social-icons {

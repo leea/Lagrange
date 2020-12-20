@@ -48,14 +48,14 @@ layout: default
   {% endif %}
 </span>
 
+<!-- Feedburner -->
+{% include feedburner.html %}
+
 {% include social-sharing.html %}
 
 {% comment %}
 {% include related-posts.html %}
 {% endcomment %}
-
-<!-- Feedburner -->
-{% include feedburner.html %}
 
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
